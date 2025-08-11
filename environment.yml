@@ -8,3 +8,5 @@ dependencies:
   - matplotlib
   - pip:
       - jupyterlite-javascript-kernel
+      - jupyterlite-pyodide-kernel
+      - jupyterlite-p5-kernel
