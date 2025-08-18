@@ -4,6 +4,10 @@ channels:
   - https://repo.prefix.dev/conda-forge
 dependencies:
   - xeus-python
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - ipywidgets
   - pip:
     - jupyterlite-pyodide-kernel
-    - seaborn
