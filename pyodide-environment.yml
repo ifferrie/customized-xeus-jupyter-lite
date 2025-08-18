@@ -7,7 +7,5 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
-  - seaborn
-  - ipywidgets
   - pip:
     - jupyterlite-pyodide-kernel
